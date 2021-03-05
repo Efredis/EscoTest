@@ -1,5 +1,5 @@
 
-# EscoTest :tw-1f4cb:
+# EscoTest 📝
 Las pruebas automatizadas llamadas "EscoTest" cumple con las siguientes premisas:
 
 Realizar 3 (tres) pruebas de navegabilidad de categorías de MercadoLibre validando:
@@ -12,7 +12,7 @@ Se ejemplifican categorías validas resaltando los tres niveles de navegación:
 ●	Categorías - Tecnología - Celulares y Smartphones
 ●	Categorías - Belleza y Cuidado Personal - Ojos 
 
-## Pre-requisitos: :tw-1f4d4:
+## Pre-requisitos: 📋
 
 - SO: Windows 7 ó posterior.
 - Procesador: Intel from 1.2 GHz ó equivilent AMD family.
@@ -49,7 +49,7 @@ Para ejecutar las pruebas es necesario configurar un entorno que comprende lo si
 - Haga clic en Aceptar. Cierre todas las demás ventanas haciendo clic en Aceptar.
 - Haga click en el boton de inicio, buscar "CMD" y ejecute el comando: "java -version", esto le traerá la versión del java indicando a su vez que está instalado.
 
-### Ejecutando las pruebas: :tw-1f4dd:
+### Ejecutando las pruebas: ⚙
 Una vez configurado el entorno para las pruebas y descargar el repositorio, se debe realizar lo siguiente para su ejecución: 
 
 - Ejecutamos el eclipse.
